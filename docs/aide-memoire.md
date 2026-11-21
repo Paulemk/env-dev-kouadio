@@ -43,3 +43,11 @@
 | `free -h`        | Affiche la mémoire             | `free -h`        |
 | `history`        | Liste les commandes tapées     | `history`        |
 | `man`            | Ouvre le manuel d'une commande | `man ls`         |
+
+## Branches
+
+- `git branch` : afficher les branches.
+- `git switch nom-branche` : changer de branche.
+- `git switch -c nom-branche` : créer une branche et basculer dessus.
+- `git merge nom-branche` : fusionner une branche dans la branche actuelle.
+- `git branch -d nom-branche` : supprimer une branche.
