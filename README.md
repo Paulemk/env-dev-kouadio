@@ -1,6 +1,4 @@
-# env-dev-kouadio
-
-Environnement de développement de Nemlin KOUADIO - B1 DEV, IFRAN.
+# env-dev-kouadio – Mon environnement de développement
 
 ## Mon ordinateur
 
