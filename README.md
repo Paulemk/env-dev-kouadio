@@ -1,4 +1,4 @@
-# env-dev-kouadio
+# env-dev-kouadio – Mon environnement de développement
 
 Environnement de développement de Nemlin KOUADIO - B1 DEV, IFRAN.
 
